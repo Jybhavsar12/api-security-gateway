@@ -36,7 +36,7 @@ A comprehensive, production-ready API Security Gateway with advanced threat dete
 
 1. **Clone/Download the project**
 ```bash
-git clone <repository> api-security-gateway
+git clone https://github.com/Jybhavsar12/api-security-gateway.git
 cd api-security-gateway
 ```
 
